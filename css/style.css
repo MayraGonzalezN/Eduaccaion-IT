@@ -20,28 +20,28 @@ h1, h2, .subtitulo {
 
 h1.tittle {
     line-height: 8rem;
-    font-size: 117px;
+    font-size: 7.3rem;
 }
 
 #secundario {
     font-family: 'MuseoModerno';
     color: #8a9af1;
-    font-size: 199px;
+    font-size: 7.4rem;
     margin: 0;
 }
 
 .contenedor-sub{
     margin: 0;
-    margin-bottom: 80px;
+    margin-bottom: 5rem;
 }
 .subtitulo {
-    font-size: 52px;
+    font-size: 3.25rem;
     font-family: 'Asap', sans-serif;
     margin-bottom: 2rem;
 }
 
 p {
-    font-size: 33px;
+    font-size: 2.1rem;
     color: #04146c;
     margin-bottom: 50px;
 }
@@ -51,12 +51,12 @@ p {
 }
 
 .lista, h2 {
-    font-size: 48px;
+    font-size: 3rem;
     margin-bottom: 20px;
 }
 
 .lista, ul {
-    font-size: 33px;
+    font-size: 2.1rem;
     color: #04146c;
 }
 
