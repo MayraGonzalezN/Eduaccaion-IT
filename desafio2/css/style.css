@@ -26,7 +26,6 @@ mark {
     margin-top: 4rem;
 }
 
-
 p {
     color: #0a2ff1;
     font-family: 'Poppins', sans-serif;
@@ -35,9 +34,6 @@ p {
     padding: .2rem;
 }
 
-div, #fondo{
-    
-}
 #fondo {   
     background-image: url(fondo.JPG);
     margin-top: 1rem;
