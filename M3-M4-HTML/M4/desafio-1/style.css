@@ -1,0 +1,107 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish', sans-serif;
+}
+body {
+    background-image: url(./assets/M4-desafio1-fondo.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 20px;
+    }
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 90vh;
+    margin: auto;
+    background-image: url('./assets/M4-desafio1-fondo-form.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    }
+
+.form {
+    width: 600px;
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 32.64px;
+    color: #04146c;
+    margin-bottom: 15px;
+}
+
+input {
+    font-size: 22.6px;
+    font-weight: 400;
+    color: #414166;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.btn {
+    color: #ffff;
+    background-color: #15163d;
+    font-size: 22.6px;
+    font-weight: 600;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+body {
+    background-image: url(./assets/M4-desafio1-fondo.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.otro{
+    background-image: url(./assets/M4-desafio1-fondo-form.png);
+  }
+
+.container {
+    width: 50%;
+}
+
+
+form {
+    background-color: #fff;
+    width: 600px;
+    height: 400px;
+}
+
+*/
