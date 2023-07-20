@@ -71,3 +71,9 @@ p {
     height: 50px;
     margin: 10px;
 }
+
+.footer {
+    margin-top: 50px;
+    width: 100%;
+    border-bottom: 20px solid #15163d;
+}
