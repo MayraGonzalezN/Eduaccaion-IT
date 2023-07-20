@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', serif;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+
+.img-header {
+    background-image: url(./assets/M4-Desafío3-img-header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 720px;
+}
+
+h1 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 58.6px;
+    color: #0a2ff1;
+    text-align: center;
+    margin: 50px 0 60px;
+}
+
+h3 {
+    font-weight: 700;
+    font-size: 25.3px;
+    color: #0a2ff1;
+}
+
+.main {
+    width: 80%;
+    padding: 10px;
+    margin: auto;
+}
+
+.contain-interno {
+    margin: 0 180px;
+}
+
+
+p {
+    font-weight: 400;
+    font-size: 25.3px;
+    color: #000000;
+    text-align:initial;
+    padding: 0 0 30px;
+}
+
+.img-section {
+    display: block;
+    width: 100%;
+    margin: auto;
+}
+
+#parrafo {
+    color: #000000;
+    font-weight: 400;
+    font-size: 24px;
+    padding: 80px 0 10px 10px;
+}
+
+.btn {
+    background-color: #0a2ff1;
+    font-weight: 400;
+    font-size: 26.6px;
+    color: #fff;
+    width: 300px;
+    height: 50px;
+    margin: 10px;
+}
