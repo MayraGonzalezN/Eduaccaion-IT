@@ -1,0 +1,64 @@
+/* Google Fonts import Roboto light - regular - bld */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+    font-size: 16px;
+}
+body {
+    margin: auto;
+}
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    text-align: start;
+    margin: 0 auto;
+}
+
+.container .sub-container {
+    margin: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: start;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    color: #0a2ff1;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 2rem;
+    font-weight: 300;
+    color: #04146c;
+    max-width: 70%;
+}
+
+#parrafo {
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+#parrafo strong {
+    font-weight: 700;
+}
+
+.sub-container .img2 {
+    margin: 30px 0 15px;
+}
+
+.img-estrella {
+    width: 30%;
+    height: auto;
+}
