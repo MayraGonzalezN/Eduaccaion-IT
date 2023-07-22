@@ -1,0 +1,101 @@
+/* Google Fonts @import Roboto Light - Light Italic - Regular - Bold - Black */
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish', sans-serif;
+    color: #0a2ff1;
+}
+
+body {
+    margin: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container-h2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.sub-container1 {
+    width: 50%;
+}
+
+.sub-container2 {
+    width: 50%;
+    position: relative;    
+}
+
+.container h1 {
+    font-size: 5rem;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 2.5rem;
+    font-weight: 400;
+}
+
+.container p {
+    font-size: 1.6rem;
+    font-weight: 400;
+    margin: 50px 0;
+}
+
+.container p strong {
+    font-weight: 700;
+}
+
+.btn-container {
+    margin: 50px 50px 50px 0;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.btn-container .btn {
+    background-color: #0a2ff1;
+    color: #ffff;
+    font-size: 1.8rem;
+    font-weight: 700;
+    border: none;
+    width: 400px;
+    height: 70px;
+}
+
+img {
+    width: 100%;
+    position: absolute;
+    top: 0;
+}
+
+.sub-container2 .img2 {
+    margin-top: 200px;
+    position: absolute;
+}
+
+
+
+.sub-container2 .foto {
+    position: relative;
+    width: 40%;
+    bottom: 0;
+    border: 10px solid #0a2ff1;
+    margin-left: 14rem;
+}
