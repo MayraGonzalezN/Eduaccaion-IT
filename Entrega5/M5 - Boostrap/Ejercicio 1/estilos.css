@@ -1,0 +1,38 @@
+/* Google Fonts Mulish Regular - Bold   */
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish', sans-serif;
+}   
+
+h1 {
+    font-weight: 700;
+    font-size: 3.31rem;
+    color: #3957f1;
+}
+/*
+main {
+    display: flex;
+    
+}
+*/
+/*
+*/
+.card-title {
+    font-weight: 400;
+    font-size: 1.75rem;
+    color: #15163d;
+}
+
+.card, img {
+    border-radius: 0 !important;
+}
+
+.shadow {
+    box-shadow: 0.2rem 0.2rem 5px 0px #0000008f !important;
+}
+.g-4, .gx-4 {
+    --bs-gutter-x: 3.5rem !important;
+}
